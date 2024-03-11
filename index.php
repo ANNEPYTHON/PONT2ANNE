@@ -3,8 +3,8 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Bridge digital twin">
-	<meta name="author" content="Federica Gaspari">
+	<meta name="description" content="Bridge GARABIT">
+	<meta name="author" content="Anne APITHY">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 	<title>Bridge name</title>
 	<link rel="stylesheet" type="text/css" href="./libs/potree/potree.css">
